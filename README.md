@@ -1,7 +1,10 @@
 ## This is a Modified SimBlock Simulator
 This program is a modification of the SimBlock simulator, intended to show the mining process that occurs using the Proof-of-Work concept. The Block creation in modified SimBlock is using a difficulty factor based on the number of leading-zero as the target hash.
+
 For example:
+
 Difficulty = 1, meaning to find one leading-zero as the target hash.
+
 Difficulty = 2, meaning to find two leading-zero as the target hash, etc.
 
 You can change this Difficulty setting at SimulationConfiguration.java file on the setting folder.
