@@ -14,7 +14,16 @@ You can see the different JSON output when finish re-compile this simulator.
 Note to remember, the higher the Difficulty will need more time to re-compile the simulator.
 
 
-
+<table>
+  <tr>
+    <th>Original SimBlock [output.json]</th>
+    <th>Modified SimBlock [output.json]</th>
+  </tr>
+  <tr>
+    <td>Gambar Original</td>
+    <td>Gambar Modified</td>
+  </tr>
+</table>
 
 
 ## What is SimBlock?
