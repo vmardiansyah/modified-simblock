@@ -13,13 +13,19 @@ You can see the different JSON output when finish re-compile this simulator.
 
 Note to remember, the higher the Difficulty will need more time to re-compile the simulator.
 
-Here are the difference output that we made.
+Here are the sample output of the differences that we made.
 
-### Original SimBlock [output.json]
+### Original SimBlock [output.json] => Genesis Block
 ![image](https://user-images.githubusercontent.com/54434087/198306499-83473e4b-9fed-4305-8749-914cb42fdf75.png)
 
-### Modified SimBlock [output.json].
+### Modified SimBlock [output.json] => Genesis Block
 ![image](https://user-images.githubusercontent.com/54434087/198304847-c1682621-728c-41ef-92dd-5d30f8f93391.png)
+
+### Original SimBlock [output.json] => Chain Block (the blocks after genesis block)
+![image](https://user-images.githubusercontent.com/54434087/198308340-1a73f3a1-5196-40d8-817a-2cbb3fc78a18.png)
+
+### Modified SimBlock [output.json] => Chain Block (the blocks after genesis block)
+![image](https://user-images.githubusercontent.com/54434087/198308777-f78a169d-b61c-42be-a8c5-17080ba549a6.png)
 
 
 ## What is SimBlock?
