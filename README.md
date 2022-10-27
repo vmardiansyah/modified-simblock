@@ -1,5 +1,5 @@
-## This is a Modified SimBlock Simulator
-This program is a modification of the SimBlock simulator, intended to show the mining process that occurs using the Proof-of-Work concept. The Block creation in modified SimBlock is using a difficulty factor based on the number of leading-zero as the target hash.
+## Disclaimer
+This simulator program is a modification from the SimBlock simulator, intended to show the mining process that occurs using the Proof-of-Work concept. The Block creation in modified SimBlock is using a difficulty factor based on the number of leading-zero as the target hash.
 
 For example:
 
@@ -13,20 +13,31 @@ You can see the different JSON output when finish re-compile this simulator.
 
 Note to remember, the higher the Difficulty will need more time to re-compile the simulator.
 
-Here are the sample output of the differences that we made.
+Here are the sample output of the differences that we made. We run the modified simulator and create 5 blocks and 3 nodes.
 
-### Original SimBlock [output.json] => Genesis Block
-![image](https://user-images.githubusercontent.com/54434087/198306499-83473e4b-9fed-4305-8749-914cb42fdf75.png)
+### Sample of Genesis Block
+<table>
+  <tr>
+    <th>Original SimBlock [output.json]</th>
+    <th>Modified SimBlock [output.json]</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/54434087/198306499-83473e4b-9fed-4305-8749-914cb42fdf75.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/54434087/198304847-c1682621-728c-41ef-92dd-5d30f8f93391.png"></td>
+  </tr>
+</table>
 
-### Modified SimBlock [output.json] => Genesis Block
-![image](https://user-images.githubusercontent.com/54434087/198304847-c1682621-728c-41ef-92dd-5d30f8f93391.png)
-
-### Original SimBlock [output.json] => Chain Block (the blocks after genesis block)
-![image](https://user-images.githubusercontent.com/54434087/198308340-1a73f3a1-5196-40d8-817a-2cbb3fc78a18.png)
-
-### Modified SimBlock [output.json] => Chain Block (the blocks after genesis block)
-![image](https://user-images.githubusercontent.com/54434087/198308777-f78a169d-b61c-42be-a8c5-17080ba549a6.png)
-
+### Sample of Chain Block (the blocks after genesis block)
+<table>
+  <tr>
+    <th>Original SimBlock [output.json]</th>
+    <th>Modified SimBlock [output.json]</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/54434087/198308340-1a73f3a1-5196-40d8-817a-2cbb3fc78a18.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/54434087/198308777-f78a169d-b61c-42be-a8c5-17080ba549a6.png"></td>
+  </tr>
+</table>
 
 ## What is SimBlock?
 
