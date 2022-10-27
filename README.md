@@ -15,10 +15,10 @@ Note to remember, the higher the Difficulty will need more time to re-compile th
 
 Here are the difference output that we made.
 
-###Original SimBlock [output.json]
+### Original SimBlock [output.json]
 ![image](https://user-images.githubusercontent.com/54434087/198306499-83473e4b-9fed-4305-8749-914cb42fdf75.png)
 
-###Modified SimBlock [output.json].
+### Modified SimBlock [output.json].
 ![image](https://user-images.githubusercontent.com/54434087/198304847-c1682621-728c-41ef-92dd-5d30f8f93391.png)
 
 
