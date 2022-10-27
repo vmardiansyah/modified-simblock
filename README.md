@@ -24,7 +24,7 @@ Note to remember, the higher the Difficulty will need more time to re-compile th
     <td>Gambar Modified</td>
   </tr>
 </table>
-
+![image](https://user-images.githubusercontent.com/54434087/198304847-c1682621-728c-41ef-92dd-5d30f8f93391.png)
 
 ## What is SimBlock?
 
